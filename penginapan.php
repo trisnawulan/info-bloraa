@@ -41,7 +41,7 @@
     <link rel="stylesheet" href="assets/plugins/leaflet-markercluster/MarkerCluster.Default.css">
 
     <!-- Routing -->
-    <link rel="stylesheet" href="assets/plugins/leaflet-routing/leaflet-routing-machine.css" />
+    <link rel="stylesheet" href="assets/plugins/leaflet-routing/leaflet-routing-machine.css"/>
 
     <!-- Judul pada tab browser -->
     <title>Rumah Sakit</title>
